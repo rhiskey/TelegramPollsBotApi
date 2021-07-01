@@ -1,0 +1,41 @@
+h1, h2, h3, h4, h5, p {
+  font-family: helvetica;
+  color: #3e3e3e;
+}
+
+.description {
+  font-size: 14px;
+  color: #9e9e9e;
+}
+
+.flow-xo-logo{
+  background: url("https://avatars2.githubusercontent.com/u/8567550?s=200&v=4");
+  width: 150px;
+  height: 150px;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.polls-table{
+  /* width: 80%; */
+  border-collapse: collapse;
+}
+/* .content{
+
+} */
+
+.chart-div{
+  width: 80%;
+}
+.div-table-poll{
+  width: 95%;
+  /* width: auto; */
+}
+.polls-table th{
+  background-color: darkcyan;
+  color: white;
+  font-weight: bold;
+  border: 1px solid rgba(224, 224, 224, 1);
+}
+.polls-table td {
+  border: 1px solid rgba(224, 224, 224, 1);
+}
